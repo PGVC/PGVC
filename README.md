@@ -1,6 +1,6 @@
 <h1 align="center">Hi!, I'm P.G.V.Chathuranga.</h1>
 <h3 align="center">A passionate developer from Sri Lanka.</h3>
-()
+
 ---
 
 - 🔭 I’m currently working on **Test**
